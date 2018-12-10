@@ -1,0 +1,3 @@
+http://data.un.org/Data.aspx?q=vietnam+gdp&d=WDI&f=Indicator_Code%3aNY.GDP.MKTP.PP.CD%3bCountry_Code%3aVNM
+
+http://data.un.org/Data.aspx?q=china+gdp&d=WDI&f=Indicator_Code%3aNY.GDP.MKTP.PP.CD%3bCountry_Code%3aCHN
